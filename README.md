@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <div style="display:inline-block;">
 <br> 
 
-![Eduardo's GitHub](https://github-readme-stats.vercel.app/api?username=Samuca-github&show_icons=true&theme=blueberry)
+![Samuca-github's GitHub](https://github-readme-stats.vercel.app/api?username=Samuca-github&show_icons=true&theme=blueberry)
 
 <h2><strong>Connect with me:</strong></h2>
 <div>
