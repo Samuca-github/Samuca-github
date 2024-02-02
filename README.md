@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ## Languages:
 
 <div style="display: inline-block;">
+<img style="width:45px; margin:0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img style="width:45px; margin:0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img style="width:45px; margin:0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
