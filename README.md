@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <br> 
 
 ![Samuca-github's GitHub](https://github-readme-stats.vercel.app/api?username=Samuca-github&show_icons=true&theme=blueberry)
+![Samuca-github's GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuca-github&layout=compact&langs_count=16&theme=dracula)
 
 <h2><strong>Connect with me:</strong></h2>
 <div>
